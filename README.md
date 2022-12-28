@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working in <a href="https://www.linkedin.com/company/accenturebrasil" target="blank">Accenture Brasil</a>
 
-- 🌱 I'm currently working at web development with focus on backend (Node.JS)
+- 🌱 I'm currently working on web development focused at the backend.
 
 - 🤝 I’m available for international positions.
 
