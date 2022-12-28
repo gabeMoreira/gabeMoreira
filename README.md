@@ -13,8 +13,6 @@
 
 - 🤝 I’m available for international positions.
 
-- 🌱 I’m currently learning Swift && SwiftUI</a>
-
 - 📫 How to reach me **gabriel.moreira999@gmail.com**
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
