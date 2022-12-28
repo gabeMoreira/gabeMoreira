@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel!</h1>
-<h3 align="center">a backend developer specialized in node &#127470;&#127475</h3>
+<h3 align="center">A backend developer specialized in node</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabeMoreira&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
@@ -31,6 +31,5 @@
         <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/](https://www.instagram.com/gabrielsmm/">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 
-      </div>
 
 </p>
