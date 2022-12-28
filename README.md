@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel!</h1>
-<h3 align="center">A backend developer specialized in node</h3>
+<h3 align="center">A Mid Level Backend Developer Specialized in Node</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabeMoreira&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working in <a href="https://www.linkedin.com/company/accenturebrasil" target="blank">Accenture Brasil</a>
 
-- 🌱 I'm currently Working on Web development with focus on backend (Node.JS)
+- 🌱 I'm currently working at web development with focus on backend (Node.JS)
 
 - 🤝 I’m available for international positions.
 
@@ -24,9 +24,8 @@
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/gabeMoreira">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
 	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/](https://www.instagram.com/gabrielsmm/">
+        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/gabrielsmm/">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 
 
