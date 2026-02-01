@@ -5,7 +5,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://www.linkedin.com/company/accenturebrasil" target="blank">Accenture Brasil</a>
+- 🔭 I’m currently working in <a href="https://www.linkedin.com/company/ana-gaming/" target="blank">Ana Gaming Brasil</a>
 
 - 🌱 I'm currently working on web development focused at the backend.
 
